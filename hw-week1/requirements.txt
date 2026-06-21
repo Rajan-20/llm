@@ -1,0 +1,8 @@
+uv
+gitsource
+minsearch
+openai
+jupyterlab
+python-dotenv
+pydantic-ai
+toyaikit
