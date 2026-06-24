@@ -1,0 +1,9 @@
+# jupyter lab
+requests
+minsearch
+openai
+python-dotenv
+sentence-transformers
+sqlitesearch
+psycopg[binary]
+uv

@@ -1,1 +1,12 @@
 practise/
+
+
+week-2/__pycache__
+week-2/.ipynb_checkpoints
+week-2/venv/
+week-2/.env
+
+week-2/onnex/__pycache__
+week-2/onnex/.ipynb_checkpoints
+week-2/onnex/.venv
+week-2/onnex/models
