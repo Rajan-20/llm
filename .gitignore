@@ -10,3 +10,8 @@ week-2/onnex/__pycache__
 week-2/onnex/.ipynb_checkpoints
 week-2/onnex/.venv
 week-2/onnex/models
+
+hw-week2/__pycache__/
+hw-week2/.ipynb_checkpoints/
+hw-week2/venv/
+hw-week2/models/

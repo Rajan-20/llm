@@ -1,0 +1,8 @@
+onnxruntime
+tokenizers 
+numpy 
+tqdm 
+minsearch 
+gitsource
+huggingface-hub
+jupyter lab
